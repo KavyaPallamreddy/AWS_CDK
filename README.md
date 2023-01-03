@@ -1,5 +1,4 @@
 # Create the app
-![image](https://user-images.githubusercontent.com/116321339/210442591-3070d55a-8aab-4b03-bfd8-96fc296ecc00.png)
 
 # Step1:
 mkdir hello-cdk
